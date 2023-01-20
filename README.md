@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashasvi Vaidya
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me-https://www.linkedin.com/in/yashasvi-vaidya-874761237
 
 <!---
